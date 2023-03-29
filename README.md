@@ -1,2 +1,4 @@
-# WG521
-Git的练习仓库
+WG521
+========
+
+I love :coffee:,:pizza:,and :dancer:.
